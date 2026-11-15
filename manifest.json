@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "ipkUrl": "https://github.com/garciatecautomacao-beep/mytrix-player-lg/releases/download/v1.0.0/com.mytrix.playerlg_1.0.0_all.ipk",
-  "changelog": "Versão inicial do Mytrix Player LG."
+  "version": "1.0.1",
+  "ipkUrl": "https://github.com/garciatecautomacao-beep/mytrix-player-lg/releases/download/v1.0.1/com.mytrix.playerlg_1.0.1_all.ipk",
+  "changelog": "Correção da pesquisa por categoria, melhorias na interface e ícone Settings em SVG."
 }
